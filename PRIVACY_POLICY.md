@@ -157,7 +157,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 - **Email**: [your-email@example.com]
 - **App**: Use the "Contact Support" option in the app settings
-- **GitHub**: [https://github.com/your-username/water-tracker](https://github.com/your-username/water-tracker)
+- **GitHub**: [https://github.com/killjay/Water-tracker-app](https://github.com/killjay/Water-tracker-app)
 
 ## Consent
 

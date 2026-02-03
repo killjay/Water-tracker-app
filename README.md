@@ -142,7 +142,7 @@ flutter build appbundle --release
 
 ## Privacy Policy
 
-View our privacy policy at: [https://your-username.github.io/water-tracker/privacy-policy.html](https://your-username.github.io/water-tracker/privacy-policy.html)
+View our privacy policy at: [https://killjay.github.io/Water-tracker-app/privacy-policy.html](https://killjay.github.io/Water-tracker-app/privacy-policy.html)
 
 Or view the markdown version: [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
 
