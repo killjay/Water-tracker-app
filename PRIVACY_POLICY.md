@@ -155,7 +155,7 @@ We encourage you to review this Privacy Policy periodically for any changes.
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-- **Email**: [your-email@example.com]
+- **Email**: inandha97@gmail.com
 - **App**: Use the "Contact Support" option in the app settings
 - **GitHub**: [https://github.com/killjay/Water-tracker-app](https://github.com/killjay/Water-tracker-app)
 
